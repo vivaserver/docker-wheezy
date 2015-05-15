@@ -1,6 +1,6 @@
 # Dockerized and localized Debian 7.0 "Wheezy"
 
-Dockerfile definition for a `en_US.UTF-8`-localized Debian 7.0 "Wheezy" image.
+Dockerfile definition for a fully `en_US.UTF-8`-localized Debian 7.0 "Wheezy" image.
 
 Wheezy has almost the same packages and versions as Ubuntu 12.04 LTS, while providing a much slimmer image size.
 
