@@ -10,6 +10,10 @@ The Docker image is also available for pulling from the [Docker Hub][vsrv]:
 
 [vsrv]: https://registry.hub.docker.com/u/vivaserver/wheezy/
 
+## Build
+
+    $ sudo docker build . -t vivaserver/wheezy
+
 ## License
 
 Released under the [MIT License](http://www.opensource.org/licenses/MIT).

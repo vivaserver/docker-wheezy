@@ -1,3 +1,6 @@
+# Build a "vivaserver/wheezy" image from this Dockerfile using:
+#   $ docker build . -t vivaserver/wheezy
+
 FROM debian:wheezy
 MAINTAINER cristian.arroyo@vivaserver.com
 
